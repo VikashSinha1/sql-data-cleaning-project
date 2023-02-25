@@ -1,6 +1,6 @@
 # sql-data-cleaning-project on nashville housing dataset.
 
-In this project my main foucus was to clean the raw data to make it more usable and presentable for further analysis.
+In this project my main focus was to clean the raw data to make it more usable and presentable for  analysis.
 
 The main data cleaning tasks which involved here was:-
  ---changing datetime into date datatype
