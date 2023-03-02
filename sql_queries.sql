@@ -10,6 +10,12 @@ from [Nashville Housing Data]
 select SaleDate,convert(time,SaleDate)as datetime
 from [Nashville Housing Data]
 
+alter table [Nashville Housing Data]
+add saledate1 date
+
+update [Nashville Housing Data]
+set saledate1 = convert(time,SaleDate)
+
 ---populate property address
 
 select *
